@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.mod

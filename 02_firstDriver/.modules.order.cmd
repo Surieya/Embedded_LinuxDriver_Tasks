@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/modules.order

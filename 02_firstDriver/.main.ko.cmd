@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.ko /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/02_firstDriver/main.mod.o
