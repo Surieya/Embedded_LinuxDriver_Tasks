@@ -1,0 +1,1 @@
+/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/major_minor.o

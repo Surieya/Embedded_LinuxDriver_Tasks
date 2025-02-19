@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/major_minor.mod := printf '%s\n'   major_minor.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/major_minor.mod

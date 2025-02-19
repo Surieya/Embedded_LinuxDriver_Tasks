@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/major_minor.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/04_major_minor/modules.order
