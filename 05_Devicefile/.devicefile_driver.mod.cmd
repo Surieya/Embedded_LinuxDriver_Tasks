@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/devicefile_driver.mod := printf '%s\n'   devicefile_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/devicefile_driver.mod

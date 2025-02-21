@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/devicefile_driver.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/05_Devicefile/modules.order
