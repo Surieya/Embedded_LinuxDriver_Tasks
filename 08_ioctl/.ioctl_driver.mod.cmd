@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/08_ioctl/ioctl_driver.mod := printf '%s\n'   ioctl_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/08_ioctl/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/08_ioctl/ioctl_driver.mod
