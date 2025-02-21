@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/og_driver.mod := printf '%s\n'   og_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/og_driver.mod

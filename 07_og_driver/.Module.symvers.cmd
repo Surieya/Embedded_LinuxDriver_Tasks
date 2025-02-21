@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/07_og_driver/modules.order -i Module.symvers -e 
