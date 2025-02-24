@@ -1,0 +1,1 @@
+/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/13_interupts/interupts_driver.o
