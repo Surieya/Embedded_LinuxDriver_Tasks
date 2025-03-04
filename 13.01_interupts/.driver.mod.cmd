@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/13.01_interupts/driver.mod := printf '%s\n'   driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/13.01_interupts/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/13.01_interupts/driver.mod
