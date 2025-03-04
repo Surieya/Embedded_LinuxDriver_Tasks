@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/15_workqueue/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/15_workqueue/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/15_workqueue/modules.order -i Module.symvers -e 
