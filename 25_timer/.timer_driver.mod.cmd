@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/25_timer/timer_driver.mod := printf '%s\n'   timer_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/25_timer/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/25_timer/timer_driver.mod
