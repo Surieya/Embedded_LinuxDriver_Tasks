@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/16_ownWorkqueue/ownWorkqueue_driver.mod := printf '%s\n'   ownWorkqueue_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/16_ownWorkqueue/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/16_ownWorkqueue/ownWorkqueue_driver.mod
