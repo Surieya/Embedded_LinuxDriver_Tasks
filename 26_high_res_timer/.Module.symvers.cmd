@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/26_high_res_timer/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/26_high_res_timer/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/26_high_res_timer/modules.order -i Module.symvers -e 
