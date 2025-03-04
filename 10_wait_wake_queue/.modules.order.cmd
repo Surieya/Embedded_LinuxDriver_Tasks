@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/wait_wake_queue_driver.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/modules.order

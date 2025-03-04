@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/10_wait_wake_queue/modules.order -i Module.symvers -e 
