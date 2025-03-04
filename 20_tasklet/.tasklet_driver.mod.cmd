@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/tasklet_driver.mod := printf '%s\n'   tasklet_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/tasklet_driver.mod

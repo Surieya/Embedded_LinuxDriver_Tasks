@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/20_tasklet/modules.order -i Module.symvers -e 
