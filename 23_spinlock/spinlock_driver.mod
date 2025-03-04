@@ -1,0 +1,1 @@
+/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/23_spinlock/spinlock_driver.o
