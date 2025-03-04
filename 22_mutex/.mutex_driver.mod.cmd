@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/mutex_driver.mod := printf '%s\n'   mutex_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/mutex_driver.mod

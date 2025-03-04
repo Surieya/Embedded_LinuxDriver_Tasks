@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/mutex_driver.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/21_mutex/modules.order
