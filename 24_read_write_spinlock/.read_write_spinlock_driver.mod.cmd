@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/read_write_spinlock_driver.mod := printf '%s\n'   read_write_spinlock_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/read_write_spinlock_driver.mod

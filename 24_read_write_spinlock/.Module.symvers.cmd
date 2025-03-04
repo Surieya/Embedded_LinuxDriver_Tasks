@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/Module.symvers -T /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/24_read_write_spinlock/modules.order -i Module.symvers -e 
