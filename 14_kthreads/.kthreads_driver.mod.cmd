@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/14_kthreads/kthreads_driver.mod := printf '%s\n'   kthreads_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/14_kthreads/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/14_kthreads/kthreads_driver.mod
