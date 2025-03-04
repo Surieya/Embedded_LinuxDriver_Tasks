@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/sysfs_driver.mod := printf '%s\n'   sysfs_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/sysfs_driver.mod

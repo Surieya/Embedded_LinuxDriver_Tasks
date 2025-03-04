@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/sysfs_driver.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/11_sysfs/modules.order
