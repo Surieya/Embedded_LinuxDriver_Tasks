@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/modules.order := {   echo /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/atomic_variable_driver.o; :; } > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/modules.order

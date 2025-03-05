@@ -1,0 +1,1 @@
+/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/atomic_variable_driver.o

@@ -1,0 +1,1 @@
+savedcmd_/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/atomic_variable_driver.mod := printf '%s\n'   atomic_variable_driver.o | awk '!x[$$0]++ { print("/home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/"$$0) }' > /home/surieya/Desktop/Embedded_LinuxDrivers_Tasks/30_atomic_variable/atomic_variable_driver.mod
